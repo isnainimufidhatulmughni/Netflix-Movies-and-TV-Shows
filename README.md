@@ -3,7 +3,7 @@
 Business Overview: 
 
 Issue Tree:
-```
+```mermaid
 graph LR
     A(How to increased ARPU in 2021?)  --> B(Many customer subscribe)
     A --> C(Customer choose the premium package)
